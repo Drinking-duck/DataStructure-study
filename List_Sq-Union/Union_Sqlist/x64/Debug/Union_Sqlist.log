@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\xk23l\source\repos\Union_Sqlist\Union_Sqlist\main.cpp(6,11): warning C4101: “e”: 未引用的局部变量
+  Union_Sqlist.cpp
+  正在生成代码...
+  Union_Sqlist.vcxproj -> C:\Users\xk23l\source\repos\Union_Sqlist\x64\Debug\Union_Sqlist.exe
